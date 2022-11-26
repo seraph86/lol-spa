@@ -1,5 +1,0 @@
-RewriteEngine On
-AddDefaultCharset UTF-8
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule .* index.html [L]
-#RewriteRule ^(.*)$ index.php?u=$1 [L,QSA]

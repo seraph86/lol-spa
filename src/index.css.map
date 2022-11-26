@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,SAAS,CAAT,IAAS,GACT,SAAS,CAAT,UAAS,GACT,SAAS,CAAT,SAAS,GAET,MAAM,CAAN,IAAM;EACJ,AAAA,EAAE,CAAC;IACD,MAAM,CAAN,oCAAM;GAA0C;EAClD,AAAA,KAAK,CAAC;IACJ,MAAM,CAAN,sCAAM;GAA4C;EACpD,AAAA,IAAI,CAAC;IACH,MAAM,CAAN,SAAM;GAAe",
-    "sources": [
-        "index.sass"
-    ],
-    "names": [],
-    "file": "index.css"
-}
